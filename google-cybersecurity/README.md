@@ -14,11 +14,15 @@ The Coursera certificate course:
 ---
 
 ## 📂 What’s Inside
-- **Module 1: Introduction & Fundamentals** → Basic cybersecurity concepts, terminology, and overview of online security.  
-- **Module 2: Networking & Security** → Core networking concepts and their security implications.  
-- **Module 3: System Administration & Security** → Operating systems, configurations, and securing endpoints.  
-- **Module 4: Threats & Attacks** → Common attacks, social engineering, malware, and response strategies.  
-- **Module 5: Cybersecurity Tools & Practices** → Practical techniques, tools, and hands-on exercises.  
+- **Module 1: Cybersecurity for Beginners** → Introductory concepts and foundations of cybersecurity.  
+- **Module 2: How To Manage Security Risks & Threats** → Understanding risk management and threat mitigation strategies.  
+- **Module 3: Internet Networks & Network Security** → Core networking concepts and network security fundamentals.  
+- **Module 4: The Basics of Computing Security Linux & SQL** → Securing operating systems, Linux fundamentals, and basic SQL security.  
+- **Module 5: Cybersecurity Assets, Network Threats & Vulnerabilities** → Identifying assets, common vulnerabilities, and threat vectors.  
+- **Module 6: Cybersecurity IDR, Incident Detection & Response** → Incident detection, response processes, and monitoring.  
+- **Module 7: Fundamentals of Python for Cybersecurity** → Python basics for security tasks, scripts, and automation.  
+- **Module 8: How To Prepare for Your Cybersecurity Career** → Career guidance, skill development, and best practices for entering the field.  
+
 
 > Note: Each module may contain multiple files or notes. I added **my own observations and applied examples** where possible.
 
