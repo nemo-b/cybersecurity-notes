@@ -226,4 +226,3 @@ One nice thing to keep in mind is that playbooks will be frequently updated depe
 5. **Post incident activity** - This phase is used in documenting the incident, informing organization's leadership, and applying lessons learned to make sure that an organization is better prepared to handle future incidents. (This step could be altered depending on the seriousness of the incident).
 6. **Coordination** - This phase involves reporting incidents and sharing information throughout the incident response process based on the organization's established standards.
 
-[A.I. Video Two](A%20I%20Video%20Two.md)
