@@ -107,4 +107,3 @@ Confidentiality, integrity, and availability (C.I.A.)
 
 **Python**: Used to preform task that are repetitive and time-consuming, and that require a high level of detail and accuracy
 
-[A.I. Video One](A.I.%20Video%20One.md)
