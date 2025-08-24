@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Notes
+# 🛡️ Security+ Notes
 
 This repository is a collection of my notes primarily from Professor Messers youtube series on the Security+ SY0-701 Test. 
 
