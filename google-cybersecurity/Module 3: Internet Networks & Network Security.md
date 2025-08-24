@@ -201,4 +201,3 @@ Tasked performed
 
 Cloud Network: A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
 
-[A.I. Video Three](A%20I%20Video%20Three.md)
