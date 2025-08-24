@@ -1,15 +1,12 @@
 # 🛡️ Cybersecurity Notes
 
-This repository is my **central hub** for everything I’m learning in cybersecurity.  
+This repository is a collection of my notes primarily from Professor Messers youtube series on the Security+ SY0-701 Test. 
+
+For credit, here is the playlist which I HIGHLY recomend for studying. 
+[https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv]
+
 It starts with raw study notes and grows into hands-on labs, projects, and reflections.  
 Think of it as a personal learning log — hopefully good for anyone who might find it useful.
-
----
-
-## 📂 What’s Inside
-- **/security-plus/** → Notes by chapter from Professor Messer’s Security+ (SY0-701) course.  
-- **/google-cybersecurity/** → Notes from the Google Cybersecurity Certificate.  
-- **/labs/** → (Coming soon) Writeups of hands-on labs, practice environments, and projects.  
 
 ---
 
