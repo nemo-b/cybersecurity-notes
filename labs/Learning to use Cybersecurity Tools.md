@@ -117,7 +117,7 @@ The video also showed an example of capturing **unencrypted data**. The instruct
 
 Sure enough, the username appeared in plaintext in the packets. This is a clear example of why HTTP is insecure — anyone capturing traffic could read the username or even the password.
 
-![My Wireshark Logs Example](images/Screenshot One.png)
+![Wireshark Logs Example](images/Screenshot%20One.png)
 
 ##### Key Takeaways
 - Learned how to filter packets generally.
