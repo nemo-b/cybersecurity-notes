@@ -4,19 +4,18 @@ The goal of this section is to take basic notes on my learning adventure — doc
 
 ---
 ## 📂 Tools Index
-- [x] 1. Wireshark (Completed: Aug 25, 2025)
-- [ ] 2. Splunk (Not Started)
-- [ ] 3. Nmap (In Progress)
-- [ ] 4. **Nmap**
-- [ ] 5. **Metasploit Framework**
-- [ ] 6. **Burp Suite**
-- [ ] 7. **Kali Linux Tools (General)**
-- [ ] 8. **Security Onion**
-- [ ] 9. **Snort / Suricata (IDS/IPS)**
-- [ ] 10. **VMs & Sandbox Environments**
-- [ ] 11. **Python for Cybersecurity**
-- [ ] 12. **Volatility (Memory Forensics)**
-- [ ] 13. **GRC Tools (Governance, Risk, Compliance)**
+- [x] 1. **Wireshark** (Completed: Aug 25, 2025)
+- [ ] 2. **Splunk** (In Progress)
+- [ ] 3. **Nmap**
+- [ ] 4. **Metasploit Framework**
+- [ ] 5. **Burp Suite**
+- [ ] 6. **Kali Linux Tools (General)**
+- [ ] 7. **Security Onion**
+- [ ] 8. **Snort / Suricata (IDS/IPS)**
+- [ ] 9. **VMs & Sandbox Environments**
+- [ ] 10. **Python for Cybersecurity**
+- [ ] 11. **Volatility (Memory Forensics)**
+- [ ] 12. **GRC Tools (Governance, Risk, Compliance)**
 
 ---
 
