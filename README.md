@@ -1,5 +1,5 @@
 # Hi, I'm Nehemiah 👋
-Aspiring SOC Analyst | CompTIA Security+ (Studying) | Cybersecurity Enthusiast  
+CompTIA Security+ Certified | Aspiring SOC Analyst | Incident Response, SIEM, Log Analysis  
 
 🔹 Currently learning: Security+ | Linux fundamentals | SIEM tools  
 🔹 Building hands-on projects: Incident response labs, log analysis, password audit scripts  
@@ -12,7 +12,7 @@ Aspiring SOC Analyst | CompTIA Security+ (Studying) | Cybersecurity Enthusiast
 - [Google Cybersecurity Certificate](./google-cybersecurity)  
   Notes and reflections from completing Google’s cybersecurity program.  
 - [Security+ Notes](./security-plus)  
-  My personal notes from studying the CompTIA Security+ exam.  
+  My personal notes from passing the CompTIA Security+ exam.  
 - [Labs & Projects](./labs)  
   Hands-on writeups, practice environments, and exercises I’ve built or tested.  
 
